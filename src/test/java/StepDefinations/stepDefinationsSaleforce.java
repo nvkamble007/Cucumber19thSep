@@ -36,7 +36,7 @@ public class stepDefinationsSaleforce {
 	    	
 	    }
 	        
-	    @Then("^user shpuld be able to login$")
+	    @Then("^user should be able to login$")
 	    public void user_shpuld_be_able_to_login() throws Throwable {
 	    	System.out.println("hello");
 	       
